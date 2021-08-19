@@ -24,7 +24,7 @@ No matter what channel you choose to communicate with us, we would prefer you to
 
 1. Receive our keys from the key server:
 
-    `gpg --keyserver pool.sks-keyservers.net --recv-keys 936EAAD588D07C19`
+    `gpg --keyserver keyserver.ubuntu.com --recv-keys 936EAAD588D07C19`
 
 2. Encrypt a "message.txt" file into "message.txt.asc":
 
