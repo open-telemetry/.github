@@ -20,7 +20,7 @@ and behavior.
   ·
   <a href="https://opentelemetry.io/docs/getting-started/">Get Started 🔭</a>
   ·
-  <a href="https://github.com/open-telemetry/community/blob/main/CONTRIBUTING.md">Contribute 🫶</a>
+  <a href="https://github.com/open-telemetry/community/blob/main/CONTRIBUTING.md">Contribute 😍</a>
   ·
   <a href="https://opentelemetry.io/docs/demo/">Try the demo 🎓</a>
 </p>
