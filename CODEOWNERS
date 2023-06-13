@@ -1,0 +1,11 @@
+#####################################################
+#
+# List of approvers for OpenTelemetry .github repository
+#
+#####################################################
+#
+# Learn about CODEOWNERS file format:
+#  https://help.github.com/en/articles/about-code-owners
+#
+
+*  @open-telemetry/technical-committee
