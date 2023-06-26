@@ -29,7 +29,7 @@ and behavior.
 
 ## 👋 Getting involved
 
-There is a lot to do! If you are interested in getting involved, please join the [mailing lists](https://github.com/open-telemetry/community#mailing-lists) and [attend the community meetings](https://calendar.google.com/calendar/u/0/embed?src=google.com_b79e3e90j7bbsa2n2p5an5lf60@group.calendar.google.com). If you're interested in contributing to a specific part of the project, please join the appropriate [special interest group (SIG)](https://github.com/open-telemetry/community#special-interest-groups). We are a friendly, collaborative group and look forward to working together!
+There is a lot to do! If you are interested in getting involved, please join the [mailing lists](https://github.com/open-telemetry/community#mailing-lists) and [attend the community meetings](https://github.com/open-telemetry/community#calendar). If you're interested in contributing to a specific part of the project, please join the appropriate [special interest group (SIG)](https://github.com/open-telemetry/community#special-interest-groups). We are a friendly, collaborative group and look forward to working together!
 
 Learn more on how you can get involved in the [OpenTelemetry Contributor Guide](https://github.com/open-telemetry/community/blob/main/CONTRIBUTING.md).
 
