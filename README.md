@@ -11,7 +11,7 @@
 
 <p align="center">
 OpenTelemetry is a collection of APIs, SDKs, and tools. Use it to
-instrument, generate, collect, and export telemetry data (<a href="https://opentelemetry.io/docs/concepts/signals/metrics/">metrics</a>, <a href="https://opentelemetry.io/docs/concepts/signals/logs/">logs</a> and <a href="https://opentelemetry.io/docs/concepts/signals/traces/">traces</a>) to help you analyze your software’s performance
+instrument, generate, collect, and export telemetry data (<a href="https://opentelemetry.io/docs/concepts/signals/metrics/">metrics</a>, <a href="https://opentelemetry.io/docs/concepts/signals/logs/">logs</a> and <a href="https://opentelemetry.io/docs/concepts/signals/traces/">traces</a>) to help you analyze your software's performance
 and behavior.
 </p>
 
