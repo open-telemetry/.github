@@ -10,7 +10,7 @@ Security fixes are given priority and might be enough to cause a new version to 
 
 ## Reporting a Vulnerability
 
-If you find something suspicious and want to report it, we'd really appreciate! 
+If you find something suspicious and want to report it, we'd really appreciate!
 
 ### Ways to report
 
