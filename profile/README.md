@@ -31,7 +31,7 @@ and behavior.
 
 There is a lot to do! If you are interested in getting involved, please join the [mailing lists](https://github.com/open-telemetry/community#mailing-lists) and [attend the community meetings](https://github.com/open-telemetry/community#calendar). If you're interested in contributing to a specific part of the project, please join the appropriate [special interest group (SIG)](https://github.com/open-telemetry/community#special-interest-groups). We are a friendly, collaborative group and look forward to working together!
 
-Learn more on how you can get involved in the [OpenTelemetry Contributor Guide](https://github.com/open-telemetry/community/blob/main/CONTRIBUTING.md).
+Learn more on how you can get involved in the [OpenTelemetry Contributor Guide](https://github.com/open-telemetry/community/blob/main/guides/contributor/README.md).
 
 ## 🦺 Help us making this Community safe
 
