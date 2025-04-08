@@ -1,0 +1,45 @@
+header:
+  schema-version: 2.0.0
+  last-updated: '2025-04-01'
+  last-reviewed: '2025-04-01'
+  url: https://github.com/open-telemetry
+
+project:
+  name: OpenTelemetry
+  administrators:
+    - name: Alolita Sharma
+      affiliation: Apple
+    - name: Austin Parker
+      affiliation: Honeycomb
+    - name: Armin Ruech
+      affiliation: Dynatrace
+    - name: Bogdan Drutu
+      affiliation: Snowflake
+    - name: Carlos Alberto
+      affiliation: Lightstep
+    - name: Daniel Gomez Blanco
+      affiliation: New Relic
+    - name: Jack Berg
+      affiliation: New Relic
+    - name: Josh Suereth
+      affiliation: Google
+    - name: Juraci Paixão Kröhling
+      affiliation: OllyGarden
+    - name: Liudmila Molkova
+      affiliation: Microsoft
+    - name: Morgan McLean
+      affiliation: Splunk
+    - name: Pablo Baeyens Fernandez
+      affiliation: Datadog
+    - name: Reiley Yang
+      affiliation: Microsoft
+    - name: Severin Neumann
+      affiliation: Independent
+    - name: Ted Young
+      affiliation: Lightstep
+    - name: Tigran Najaryan
+      affiliation: Splunk
+    - name: Trask Stalnaker
+      affiliation: Microsoft
+    - name: Yuri Shkuro
+      affiliation: Meta
