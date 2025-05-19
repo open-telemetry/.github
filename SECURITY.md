@@ -20,7 +20,6 @@ tab in the respective GitHub repository. It creates a private communication chan
 between the reporter and the maintainers.
 
 If you are absolutely unable to or have strong reasons not to use GitHub reporting
-workflow, please reach out to security@opentelemetry.io, and we will
-provide instruction on how to report the vulnerability using an encrypted message.
+workflow, please reach out to security@opentelemetry.io.
 
 [gh-organization]: https://github.com/open-telemetry
