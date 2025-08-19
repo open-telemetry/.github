@@ -19,6 +19,9 @@ the preferred way is to use the `Report a vulnerability` button on the `Security
 tab in the respective GitHub repository. It creates a private communication channel
 between the reporter and the maintainers.
 
+For reporting security issues against the website, please report them at
+https://github.com/open-telemetry/opentelemetry.io/security/advisories.
+
 If you are absolutely unable to or have strong reasons not to use GitHub reporting
 workflow, please reach out to security@opentelemetry.io.
 
