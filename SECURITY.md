@@ -20,7 +20,7 @@ tab in the respective GitHub repository. It creates a private communication chan
 between the reporter and the maintainers.
 
 For reporting security issues against the website, please report them at
-https://github.com/open-telemetry/opentelemetry.io/security/advisories.
+<https://github.com/open-telemetry/opentelemetry.io/security/advisories>.
 
 If you are absolutely unable to or have strong reasons not to use GitHub reporting
 workflow, please reach out to security@opentelemetry.io.
