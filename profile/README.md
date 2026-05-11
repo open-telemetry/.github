@@ -43,5 +43,5 @@ Please be mindful that Security-related issues should be reported through our [S
 
 ---
 
-OpenTelemetry is a [CNCF](https://cncf.io/) [incubating](https://www.cncf.io/projects/) project.
+OpenTelemetry is a [CNCF](https://cncf.io/) [graduated](https://www.cncf.io/projects/) project.
 Formed through a merger of the OpenTracing and OpenCensus projects.
