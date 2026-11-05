@@ -1,4 +1,4 @@
-# Community incident response guidelines
+# Security Policy
 
 This security policy applies to all projects under the [OpenTelemetry
 organization][gh-organization] on GitHub.
