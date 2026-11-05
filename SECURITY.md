@@ -1,7 +1,15 @@
-# Security Policy
+# Community incident response guidelines
 
-This security policy applies to all projects under the [open-telemetry
+This security policy applies to all projects under the [OpenTelemetry
 organization][gh-organization] on GitHub.
+
+Security vulnerabilities should be handled quickly and sometimes privately. The
+primary goal of this process is to reduce the total time users are vulnerable to
+publicly known exploits.
+
+The relevant OpenTelemetry repository maintainers, supported by the Security SIG
+and OpenTelemetry Technical Committee (TC), are responsible for responding to
+the incident including internal communication and external disclosure.
 
 ## Security model
 
@@ -87,7 +95,7 @@ branch at the moment of the release. For instance, if the latest version is
 
 Security fixes are given priority and might be enough to cause a new version to
 be released. Each repository is entitled to establish their own complementary
-processes. SIG-Security in conjunction with the TC can advise in case
+processes. The Security SIG in conjunction with the TC can advise in case
 clarifications are required.
 
 ## Reporting a Vulnerability
@@ -130,7 +138,7 @@ from assumptions.
 
 Do not delay an initial report of a suspected vulnerability while gathering
 missing details, especially if it is already public or being actively exploited.
-Use the [private reporting methods](#ways-to-report), include the available
+Use the [private reporting methods](#reporting-methods), include the available
 evidence, and supplement it during assessment.
 
 Reports without supporting evidence may be closed if the reporter does not
@@ -153,7 +161,7 @@ form one vulnerable system; host application impact is not automatically
 subsequent-system impact. Distinguish exposure of telemetry from exposure of
 credentials or unrelated application data.
 
-### Ways to report
+### Reporting Methods
 
 In order for the vulnerability reports to reach maintainers as soon as possible,
 the preferred way is to use the `Report a vulnerability` button on the
@@ -202,7 +210,7 @@ this vulnerability, if known, to help with scoring and prioritization.
 
 ## More Information
 
-For maintainer guidance, please see the
+For more information, please see the
 [Security SIG documentation](https://github.com/open-telemetry/sig-security/blob/main/security-response.md)
 on GitHub.
 
